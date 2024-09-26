@@ -1,9 +1,14 @@
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="docs/images/opendaq-logo-dark.png">
-    <img alt="OpenDAQ logo" src="docs/images/opendaq-logo.png">
-</picture>
+<h3 align="center">
+    <a href="https://opendaq.com" target="blank_">
+        <img height="100" alt="openDAQ" src="docs/images/openDAQ-logo-orange-blue-rgb.svg" />
+    </a>
+    <br>
+    meta-opendaq-sdk
+    <br>
+    OpenEmbedded / Yocto Project Layer for the openDAQ SDK
+</h3>
 
-# **meta-opendaq-sdk**<br><small>OpenEmbedded / Yocto Project Layer for the openDAQ SDK</small>
+---
 
 ## Overview
 
